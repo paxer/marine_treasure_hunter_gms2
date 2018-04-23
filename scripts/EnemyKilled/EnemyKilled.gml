@@ -11,7 +11,7 @@ switch (object_get_name(enemy.object_index))
    case "obj_fish":
       effect_create_above(ef_explosion, enemy.x, enemy.y, 1, c_red);	
       break;	  
-   case "obj_crab":
+   case "oCrab":
 		effect_create_above(ef_explosion, enemy.x, enemy.y, 1, c_orange);
 		break;
    }

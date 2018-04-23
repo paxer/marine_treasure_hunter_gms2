@@ -2,7 +2,7 @@
     "id": "1e2d4f0b-e18b-444f-8fca-b11e30e4687a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_crab",
+    "name": "oCrab",
     "eventList": [
         {
             "id": "a6c0c2d8-48e4-4c73-b7ae-32440765e992",
@@ -46,6 +46,7 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
     "parentObjectId": "9b627ef1-2dee-42af-a33a-fb852f6151ae",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -60,6 +61,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
+    "properties": null,
     "solid": false,
     "spriteId": "dfc29281-471e-460e-b059-7d28570fc01a",
     "visible": false

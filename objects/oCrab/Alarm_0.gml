@@ -3,7 +3,7 @@
 // stop animation
 //image_speed = 0;
 //image_index = 0;
-//object_set_sprite(obj_crab, spr_crab_idle)
+//object_set_sprite(oCrab, spr_crab_idle)
 sprite_index = spr_crab_idle;
 
 // stop moving
