@@ -8,7 +8,7 @@ audio_play_sound(snd_enemy_death, 0 , 0);
 switch (object_get_name(enemy.object_index))
    {
 
-   case "obj_fish":
+   case "oFish":
       effect_create_above(ef_explosion, enemy.x, enemy.y, 1, c_red);	
       break;	  
    case "oCrab":

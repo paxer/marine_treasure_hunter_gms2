@@ -1079,7 +1079,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_fish\/obj_fish.yy",
+                "resourcePath": "objects\/oFish\/oFish.yy",
                 "resourceType": "GMObject"
             }
         },
