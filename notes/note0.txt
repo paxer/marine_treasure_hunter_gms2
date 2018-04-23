@@ -1,0 +1,37 @@
+---------------------------------------------
+TODO:
+Only one treasure per lift
+Second type of fish - following the player
+Mines
+Levels
+Add game over sound
+
+
+--------------------------------------------
+DOING:
+bug if you go donw - the treasure is not following
+
+
+--------------------------------------------
+DONE:
+Create seabed
+Create sky
+Create player area
+Add a player and make it move
+Player should not move out of game window
+Player should not move over seabed and sky
+Add a player ship
+Flip player sprite when moving right or left
+Link a playe and a ship so the move together
+Add ------ to connect player and ship
+Add ability to shoot and bullets
+Add sound whwn shooting
+Add Crab enemy and make it move
+Enemy kills the player
+Add Fish enemy and make it move
+Increase score when kill an enemy
+Make cooldown on killed enemy re-spawn
+Add treasure and add them randomly in thye room
+Add Title screen
+Add end screen
+Crab should stop randomly and after change direction randomly where to move
