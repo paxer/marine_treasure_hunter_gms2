@@ -2,7 +2,7 @@
     "id": "1e2d4f0b-e18b-444f-8fca-b11e30e4687a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oCrab",
+    "name": "obj_crab",
     "eventList": [
         {
             "id": "a6c0c2d8-48e4-4c73-b7ae-32440765e992",

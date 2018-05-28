@@ -2,7 +2,7 @@
     "id": "dba62637-e417-4597-98fa-bb2341813dd9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oPlayer",
+    "name": "obj_player",
     "eventList": [
         {
             "id": "4aff3315-ca12-41d2-a018-e2c53b1971a7",
@@ -86,6 +86,7 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -100,6 +101,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
+    "properties": null,
     "solid": false,
     "spriteId": "ce987b56-874d-4f40-9825-5881ee6937c1",
     "visible": true

@@ -2,7 +2,7 @@
     "id": "5cdbc67e-4fbc-42f3-a6d1-1f384b104fd0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oBullet",
+    "name": "obj_bullet",
     "eventList": [
         {
             "id": "c07a3174-46d8-4a9e-a195-dcdfe260c62e",
@@ -36,6 +36,7 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -50,6 +51,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
+    "properties": null,
     "solid": false,
     "spriteId": "c0f64526-b769-4156-8d78-1bd30c632e5d",
     "visible": true

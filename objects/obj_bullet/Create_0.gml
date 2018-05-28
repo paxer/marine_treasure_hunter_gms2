@@ -1,4 +1,4 @@
-if oPlayer.looking_right {
+if obj_player.looking_right {
 	direction = 360
 	image_xscale = -1
 }

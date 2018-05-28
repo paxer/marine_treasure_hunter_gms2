@@ -19,7 +19,7 @@ if keyboard_check(vk_right) or keyboard_check(ord("D"))  {
  
 // fix x,y to not be more than the playable area
 x = clamp(x, 32, room_width - 32);
-y = clamp(y, oShip.y + 50, room_height - 90);
+y = clamp(y, obj_ship.y + 50, room_height - 90);
 
 if (!is_moving) {
 	sprite_index = spr_player

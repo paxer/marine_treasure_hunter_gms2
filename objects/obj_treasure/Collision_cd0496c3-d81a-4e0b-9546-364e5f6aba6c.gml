@@ -3,10 +3,10 @@
 
 // start lifting
 
-if (point_distance(x, y, oPlayer.x, oPlayer.y) > 20)
+if (point_distance(x, y, obj_player.x, obj_player.y) > 20)
 {
 	lifting_treasure = true;
-	move_towards_point(oPlayer.x, oPlayer.y, 4);
+	move_towards_point(obj_player.x, obj_player.y, 4);
 } 
 else
 {
@@ -16,7 +16,7 @@ else
 
 
 // the treasure delivered
-if distance_to_object(oShip) < 80
+if distance_to_object(obj_ship) < 80
 {
 	lifting_treasure = false;
 	with(obj_score) player_score = player_score + 10

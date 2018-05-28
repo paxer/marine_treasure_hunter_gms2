@@ -1,7 +1,7 @@
 draw_self();
 
 // draw hose between player and ship
-var distance_between_ship_and_player = point_distance(x, y, oPlayer.x, oPlayer.y + 28);
+var distance_between_ship_and_player = point_distance(x, y, obj_player.x, obj_player.y + 28);
 var number_of_segments = round((distance_between_ship_and_player - sprite_width) / 10);
 var segment_step = 10;
 var start_segment_y = 5;
