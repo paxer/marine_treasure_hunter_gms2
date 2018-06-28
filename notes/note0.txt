@@ -1,19 +1,20 @@
 ---------------------------------------------
 TODO:
+Random clouds in the sky
 Only one treasure per lift
 Second type of fish - following the player
 Mines
 Levels
 Add game over sound
-
+Particles over player (bubbles)
 
 --------------------------------------------
 DOING:
-bug if you go donw - the treasure is not following
-
+Fix the crab animation after resume moving
 
 --------------------------------------------
 DONE:
+bug if you go donw - the treasure is not following
 Create seabed
 Create sky
 Create player area

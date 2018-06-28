@@ -1,4 +1,4 @@
-// Moving by keyword
+ // Moving by keyword
 if keyboard_check(vk_up) or keyboard_check(ord("W")) y = y - 3;
 if keyboard_check(vk_down) or keyboard_check(ord("S")) y = y + 3;
 
