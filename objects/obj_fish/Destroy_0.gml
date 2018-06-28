@@ -1,1 +1,1 @@
-instance_create_layer(x, y, "Instances", obj_fish_spawner);
+instance_create_layer(x, y, "Instances", obj_fish_spawner)

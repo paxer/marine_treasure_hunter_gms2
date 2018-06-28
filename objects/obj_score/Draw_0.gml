@@ -1,1 +1,1 @@
-draw_text(x, y,  "Score: " + string(player_score));
+draw_text(x, y,  "Score: " + string(player_score))

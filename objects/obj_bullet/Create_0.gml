@@ -5,4 +5,4 @@ if obj_player.looking_right {
 else {	
 	direction = 180
 }
-speed = 10;
+speed = 10

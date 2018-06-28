@@ -1,1 +1,1 @@
-instance_create_layer(x, y, "Instances", obj_crab_spawner );
+instance_create_layer(x, y, "Instances", obj_crab_spawner )

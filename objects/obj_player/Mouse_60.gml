@@ -1,2 +1,2 @@
 /// @description move up
-y = y - 20;
+y = y - 20
